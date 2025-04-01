@@ -1,0 +1,17 @@
+# Debt Optimizer App 🧮💸
+
+A web-based tool to help users build a custom debt payoff plan based on:
+- Debt list with balances, interest, due dates
+- Monthly household expenses
+- Payroll income timing
+
+## 🧰 Stack
+
+- **Frontend**: React + Tailwind CSS + ShadCN UI + Recharts
+- **Backend**: Node.js + Express
+
+## 📦 Setup
+
+```bash
+git clone https://github.com/yourusername/debt-optimizer-app.git
+cd debt-optimizer-app
